@@ -1,35 +1,32 @@
 <p>
-  <h1 align="center"><b> Hi, I'm Vera Martín 👋</b></h1>
+  <h1 align="center"><b> Hola, soy Vera Martín 👋</b></h1>
 </p>
-
 
 <img align="right" width=400px alt="Unicorn" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
+Soy un estudiante universitario de Ciencias de la Computación e Ingeniería en IIIT-Hyderabad. Python, Javascript, HTML y Shell son los lenguajes de programación en los que destaco. Me encanta aprender y construir cosas nuevas, productivas, innovadoras y creativas.
+* **Me interesa el diseño web, el desarrollo de Android y el marketing digital.**
+- 🌱 Actualmente estoy aprendiendo...
   - Python
   - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="vera124486@gmail.com">vera124486@gmail.com</a>
+- 👯 Busco colaborar en proyectos de código abierto.
+- ✔ Pregúntame sobre cualquier cosa, estaré encantado de ayudar, ¡siempre que esté dentro de mi dominio! 😉<br>
+- Fuera de la tecnología, 📖 me encanta leer novelas, 🖌️ pintar y dibujar, 🎵 escuchar música y 🌴 explorar la naturaleza al aire libre.
+- 📫 Contáctame en: <a href="mailto:vera124486@gmail.com">vera124486@gmail.com</a>
 
-## My Skills Include
+## Mis Habilidades Incluyen
 
-<h4> Languages </h4>
+<h4> Lenguajes </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
- 
 </span>
 
-
-<h4> Other Tools and Technologies </h4>
+<h4> Otras Herramientas y Tecnologías </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
@@ -39,15 +36,20 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </span>
 
-## Check out my Social Me
+## Mis Redes Sociales
 
-<a href="https://www.instagram.com/vera_martin2004/">
+<a href="https://www.instagram.com/vera_martin2004/" target="_blank">
    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-<a href="https://www.linkedin.com/in/vera-martin-40375b328/">
+</a>
+<a href="https://www.linkedin.com/in/vera-martin-40375b328/" target="_blank">
    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-<a href="https://slack.com/intl/es-pe/">
+</a>
+<a href="https://slack.com/intl/es-pe/" target="_blank">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-<a href="https://www.tiktok.com/@vera20041608">
- <img src="(https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
-<a href="">
+</a>
+<a href="https://www.tiktok.com/@vera20041608" target="_blank">
+ <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
+</a>
+<a href="#" target="_blank">
  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+</a>
